@@ -31,4 +31,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikarthik2403&show_icons=true&locale=en&layout=compact" alt="saikarthik2403" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikarthik2403&show_icons=true&locale=en" alt="saikarthik2403" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikarthik2403&" alt="saikarthik2403" /></p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
